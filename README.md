@@ -5,6 +5,13 @@ NLW é um evento online exclusivo e gratuito, promovido pela Rocketseat para ens
 </p>
 
 <p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<p align="center">
   <img src="./spacetime/assets/preview.png" alt="Demonstração do projeto" width="100%" />
 </p>
 
