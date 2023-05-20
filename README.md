@@ -21,9 +21,6 @@ NLW é um evento online exclusivo e gratuito, promovido pela Rocketseat para ens
   <img src="./spacetime/assets/preview.png" alt="Demonstração do projeto" width="100%" />
 </p>
 
-## 🖥️ Projeto
-Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
-
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias:
 
@@ -31,6 +28,10 @@ Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecno
 - JavaScript
 - Git e Github
 - Figma
+
+## 🖥️ Projeto
+Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
+- [Visite o projeto online](https://maykbrito.github.io/nlw-setup)
 
 ## 🏷️ Layout
 Você pode visualizar o layoout do projeto através 
