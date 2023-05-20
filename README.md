@@ -31,12 +31,12 @@ Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecno
 
 ## 🖥️ Projeto
 Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
-- [Visite o projeto online](https://maykbrito.github.io/nlw-setup)
+- [Visite o projeto online](https://rodrigorgtic.github.io/nlw-spacetime/)
 
 ## 🏷️ Layout
 Você pode visualizar o layoout do projeto através 
 [desse link](https://www.figma.com/file/xllhBAkuLVflqR1WB9SzTj/Capsula-do-Tempo---Trilha-Explorer?type=design&node-id=306%3A3&t=l2mqywaCaALXnqil-1). 
-É necessário ter uma conta no [Figma](https://www.figma.com)
+É necessário ter uma conta no [Figma](https://www.figma.com).
 
 ## :memo: Licença
 
